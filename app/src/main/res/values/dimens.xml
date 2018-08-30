@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Height of each list item -->
+    <dimen name="list_item_height">88dp</dimen>
+    <dimen name="activity_horizontal_margin">64dp</dimen>
+    <dimen name="sp_24">24sp</dimen>
+    <dimen name="dp_10">10dp</dimen>
+    <dimen name="dp_3">3dp</dimen>
+    <dimen name="dp_5">5dp</dimen>
+    <dimen name="sp_17">17sp</dimen>
+    <dimen name="sp_16">16sp</dimen>
+    <dimen name="dp_6">6dp</dimen>
+</resources>

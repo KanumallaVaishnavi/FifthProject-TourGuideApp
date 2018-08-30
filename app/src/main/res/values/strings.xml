@@ -1,0 +1,91 @@
+<resources>
+    <string name="app_name">Vihari</string>
+
+    <string name="title_divine">DIVINE DESTINATIONS</string>
+    <string name="title_museums">MUSEUMS</string>
+    <string name="title_beaches">BEACHES</string>
+    <string name="title_parks">PARKS</string>
+
+    <!--DivineDestinationsFragment-->
+    <string name="simhachalam">Simhachalam Temple</string>
+    <string name="simhachalam_address">Simhachalam Hill, Near Gopalpattam, Vizag, Andhra Pradesh 530028</string>
+    <string name="simhachalam_timings">7:00 AM – 4:00 PM, 6:00 PM – 9:00 PM</string>
+    <string name="lakshmi_temple">Sri Kanaka Mahalakshmi Temple</string>
+    <string name="lakshmi_temple_address">Town Kotha Rd, Burujupeta, Jagadamba Junction, Vizag, Andhra Pradesh 530001</string>
+    <string name="lakshmi_temple_timings">Opened 24 hours</string>
+    <string name="kailasagiri">Kailasagiri</string>
+    <string name="kailasagiri_address">Hill Top Road, Kailasagiri, Visakhapatnam, Andhra Pradesh 530043</string>
+    <string name="kailasagiri_timings">6:00 AM - 9:00 PM</string>
+    <string name="rose_hill_church">Rose Hill Church </string>
+    <string name="rose_hill_church_address">Port Area, Visakhapatnam, Andhra Pradesh 530001</string>
+    <string name="rose_hill_church_timings">5:30 AM - 7:30 PM</string>
+    <string name="annavaram">Sri Sathyanarayana Swamy Temple</string>
+    <string name="annavaram_address">Annavaram, Andhra Pradesh 533406(110km from vizag)</string>
+    <string name="annavaram_timings">5:00 AM - 9:00 PM</string>
+
+    <!--MuseumsFragment-->
+    <string name="kursura">INS Kursura(S20)</string>
+    <string name="kursura_address">R. K. Beach Road, Chinna Waltair, Vizag, Andhra Pradesh 530017</string>
+    <string name="kursura_timings">2:00 PM - 8:30 PM(Monday closed)</string>
+    <string name="araku_museum">Araku Tribal Museum</string>
+    <string name="araku_museum_address">Araku, Andhra Pradesh 531149</string>
+    <string name="araku_museum_timings">9:00 AM - 7:00 PM</string>
+    <string name="visakha_museum">Visakha Museum</string>
+    <string name="visakha_museum_address">Beach Road, Dutch Layout, Chinna Waltair, Vizag, Andhra Pradesh 530017</string>
+    <string name="visakha_museum_timings">12:00 PM - 7:00 PM(Friday closed)</string>
+    <string name="aircraft_museum">TU 142 Aircraft Museum</string>
+    <string name="aircraft_museum_address">Opp Kursura Submarine museum, Vizag, Andhra Pradesh 530003</string>
+    <string name="aircraft_museum_timings">2:00 PM - 8:30 PM</string>
+    <string name="ramanaidu_film">Ramanaidu Film Studios</string>
+    <string name="ramanaidu_film_address">18km from RK Beach, Vizag, Andhra Pradesh 530048</string>
+    <string name="ramanaidu_film_timings">11:00 AM - 9:00 PM</string>
+    <string name="eastern_art">Eastern Art Museum</string>
+    <string name="eastern_art_address"> Waltair Uplands Road, Vizag, Andhra Pradesh 530003</string>
+    <string name="eastern_art_timings">10: AM - 9:00 PM</string>
+    <string name="telugu_museum">Telugu Cultural Museum</string>
+    <string name="telugu_museum_address">Kailasagiri hill, Vizag, Andhra Pradesh 530043 </string>
+    <string name="telugu_museum_timings">11:00 AM - 7:00 PM(Monday closed)</string>
+
+    <!--BeachesFragment-->
+    <string name="rkbeach">Rama Krishna Beach</string>
+    <string name="rkbeach_address">5km from Main City Vizag, Andhra Pradesh 530003</string>
+    <string name="rkbeach_timings">5:00 PM - 9:00 PM</string>
+    <string name="rushikondabeach">Rushikonda Beach</string>
+    <string name="rushikondabeach_address">On the coast of Bay of Bengal, Vizag</string>
+    <string name="rushikondabeach_timings">9:30 AM - 7:00 PM</string>
+    <string name="yaradabeach">Yarada Beach</string>
+    <string name="yaradabeach_address">15km from Main City Vizag, Andhra Pradesh</string>
+    <string name="yaradabeach_timings">During day</string>
+    <string name="dolphins_nose">Dolphin\'s Nose</string>
+    <string name="dolphins_nose_address">Gangavaram Port, Visakhapatnam, Andhra Pradesh 530005</string>
+    <string name="dolphins_nose_timings">3:00 PM - 5:00 PM only</string>
+    <string name="bheemunipatnambeach">Bheemunipatnam Beach</string>
+    <string name="bheemunipatnambeach_address">Beach Rd, Vizag, Andhra Pradesh 531163</string>
+    <string name="bheemunipatnambeach_timings">During Evening</string>
+
+    <!--ParksFragment-->
+    <string name="vuda_central_park">Vuda City Central Park</string>
+    <string name="vuda_central_park_address">RTC Complex Road, Dwaraka Nagar, Vizag, Andhra Pradesh 530004</string>
+    <string name="vuda_central_park_timings">9:00 AM - 8:30 PM</string>
+    <string name="vuda_park">Vuda Park</string>
+    <string name="vuda_park_address">Beach Rd, Kailasagiri Arch, Jalari Peta, Vizag, Andhra Pradesh 530017</string>
+    <string name="vuda_park_timings">8:30 AM - 8:30 PM</string>
+    <string name="tenneti_park">Tenneti Park</string>
+    <string name="tenneti_park_address">Beach Road, Opposite To Kailasagiri Hills, Vizag, Andhra Pradesh 530001</string>
+    <string name="tenneti_park_timings">6:00 AM - 9:00 PM</string>
+    <string name="tyda_park">Tyda Park</string>
+    <string name="tyda_park_address">Araku valley, Vizag, AP</string>
+    <string name="tyda_park_timings">Early morning</string>
+    <string name="shilparamam">Shilparamam</string>
+    <string name="shilparamam_address">NH-16, Pothinamallayya Palem, Vizag, Andhra Pradesh 530041</string>
+    <string name="shilparamam_timings">10:30 Am - 8:00 PM</string>
+    <string name="araku_valley">Araku Valley</string>
+    <string name="araku_address">112 kilometres from Vizag.</string>
+    <string name="address">Address :</string>
+    <string name="best_time">Best Time :</string>
+    <string name="time">October to March</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
